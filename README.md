@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FizanMuhammedFaisal
 - 👀 I’m interested in ofcource programming
-- 🌱 I’m currently learning node.js and more
+- 🌱 I’m currently learning React and more
 - 💞️ I’m looking to collaborate on cool projects
 - 📫 How to reach me fizanmuhammedfaisal.k@gmail.com
 
